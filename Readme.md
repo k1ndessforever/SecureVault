@@ -131,7 +131,7 @@ No analytics / tracking
 
 Comparison With Cloud-Based Managers
 
-Not a marketing table — just reality:
+Not a marketing table just reality:
 
 Feature	This App	1Password	Bitwarden
 Encryption	AES-256-GCM	AES-256	AES-256
